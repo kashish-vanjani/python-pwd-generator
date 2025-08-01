@@ -18,4 +18,4 @@ This tool generates strong random passwords using letters, numbers, and symbols.
 2. Run the script in terminal:
 
 ```bash
-python password_generator.py
+python pwd_gen.py
